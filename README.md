@@ -1,0 +1,3 @@
+***Solve Process***
+_________________________
+I first tried to view the content of the svg image using 'cat' command. It gives me some measurements. I understood the content. Then I opened the image and saw a black circle in a transparent bg. **There is no flag!**. I was wondering what I should do. Then I got an idea. I opened the svg file in a text editor and started exploring. **I found something**. There is a font inside the image but it is hidden. I found some hidden text with very small size and width. Boom! I increased the size and changed the color to ff0000(red) and the text started to show up. Then I moved their positions and tada , I found the flag! 
